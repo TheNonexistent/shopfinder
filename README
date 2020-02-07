@@ -1,0 +1,10 @@
+# Shop Finder
+
+Place your API Key in the config file.
+
+The API key can be changed within the program anytime.
+
+This program can output the result in two different formats. PDF and XLS.
+
+TODO:
+Dynamize The Search Keyword. 
