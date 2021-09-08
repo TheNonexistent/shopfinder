@@ -4,7 +4,7 @@ fpdf==1.7.2
 googlemaps==4.0.0
 idna==2.8
 numpy==1.18.0
-Pillow==6.2.1
+Pillow==8.3.2
 pkg-resources==0.0.0
 requests==2.22.0
 six==1.13.0
